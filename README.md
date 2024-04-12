@@ -12,7 +12,7 @@ iTerm2 brings the terminal into the modern age with features you never knew you 
 #### Split Panes
 ```
 Divide a tab up into multiple panes, each one showing a different session.
-You can slice vertically and horizontally and create any number of panes in any imaginable arrangement.
+You can slice vertically and horizontally and create any number of panes in any arrangement.
 ```
 
 ![image](https://github.com/kekimac/Iterm2/assets/166808766/df61218b-25b7-4778-a43c-54e536fb5677)
