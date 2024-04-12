@@ -7,7 +7,7 @@ Favorite word: "Yes!"
 Likes: Following Rosette's leadership, being in the company of humans
 Dislikes: getting into trouble because of Rosette, being abused by her, seeing her suffer, and carrots
 
-## [OREOL](https://solscan.io/)
+## [OREOL](https://keka-mac.com)
 
 
 MoreTop Anime
